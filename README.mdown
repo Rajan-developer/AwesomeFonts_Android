@@ -1,0 +1,31 @@
+# How To Use the Font Awesome Icon Pack in an Android
+
+#### Introduction
+
+Font Awesome is a great timesaver for several reasons. In this tutorial, I will show you how to use the Font Awesome icon pack in an Android project. Font Awesome is a great timesaver for several reasons. If you want to use PNG files, you have to include at least four different versions of every icon in your package. If you need a step by step explanation of the topic, you can check our article here: [How To Use the Font Awesome Icon Pack in an Android](https://insights.nimblechapps.com/app-development/android-app-development/how-to-use-the-font-awesome-icon-pack-in-an-android)
+
+#### Steps to follow:
+
+ 1. Create a new project.
+ 2. Create String resources in res/values/string.xml.
+ 3. Now Create layout in activity_main.xml.
+ 4. Add fontawesome-webfont.ttf to asset folder.
+ 5. Click on connect to firebase.
+ 6. Click a helper class.
+ 7. Now use font awesome to your textview.
+
+This tutorial has been presented by Nimblechapps - The coolest [Android App Development Company](https://www.nimblechapps.com/android-app-development-company). Checkout our [android app development portfolio](https://www.nimblechapps.com/portfolio/mobile-app-development).
+
+     Provide us your valuable comment in our blog comment section.
+
+##### Read other interesting iOS blogs:
+
+ 1. [How to Integrate Dropbox with your Android APP and Perform CRUD Action](https://insights.nimblechapps.com/app-development/android-app-development/how-to-integrate-dropbox-with-your-android-app-and-perform-crud-action)
+ 2. [How to Integrate Firebase Push Notifications in Android Application](https://insights.nimblechapps.com/app-development/android-app-development/integrate-firebase-push-notifications-android-application)
+ 3. [Using MongoDB For Storing and Retrieving Data For Android](https://insights.nimblechapps.com/app-development/android-app-development/using-mongodb-storing-retrieving-data-android)
+ 4. [Alert Dialog And Custom Dialog For Android](https://insights.nimblechapps.com/app-development/android-app-development/alert-dialog-custom-dialog-android)
+ 5. [Creating Tinder Like Swipe Slider For Android](https://insights.nimblechapps.com/app-development/android-app-development/creating-tinder-like-swipe-slider-for-android)
+
+## License
+
+Copyright (c) 2017 Nimblechapps
